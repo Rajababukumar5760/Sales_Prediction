@@ -1,2 +1,2 @@
-# CodeAlpha_Sales_Prediction
+Sales_Prediction
 sales prediction
